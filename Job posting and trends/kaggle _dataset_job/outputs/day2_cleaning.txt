@@ -1,0 +1,5 @@
+DAY 2 – DATA CLEANING
+Before duplicate removal: (742, 28)
+After duplicate removal: (467, 28)
+Shape after filtering for data jobs: (385, 28)
+Cleaned data saved to: D:\Job posting and trends\kaggle _dataset_job\notebook\cleaned_data\cleaned_jobs.csv

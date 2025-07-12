@@ -1,0 +1,10 @@
+Top 10 Skills by Seniority Level
+
+Entry Level:
+excel: 6
+
+Mid Level:
+excel: 166
+
+Senior Level:
+excel: 36

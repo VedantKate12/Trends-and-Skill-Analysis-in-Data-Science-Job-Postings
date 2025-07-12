@@ -1,0 +1,22 @@
+DAY 4: TOP COMPANIES HIRING
+
+Top 10 Companies Hiring for Data Roles (Global View):
+                                        Company  Postings
+                                     massmutual         7
+                                           pnnl         6
+                                   numeric, llc         5
+                                        novetta         5
+                                          mitre         5
+                                       novartis         4
+the church of jesus christ of latter-day saints         4
+                                     fareportal         4
+                                      sartorius         3
+                                         h2o.ai         3
+
+Top Companies Hiring in India at Entry Level:
+                 Company  Postings
+          ksm consulting         1
+                 u.group         1
+                springml         1
+        moser consulting         1
+liberty mutual insurance         1

@@ -1,0 +1,24 @@
+DAY 6: SKILLS EXTRACTION
+
+Top 20 Extracted Skills from Job Descriptions:
+
+r: 385
+python: 250
+sql: 249
+excel: 208
+communication: 207
+machine learning: 196
+statistics: 179
+data analysis: 117
+spark: 111
+aws: 102
+java: 96
+tableau: 94
+leadership: 94
+hadoop: 82
+data visualization: 73
+data mining: 64
+sas: 57
+problem solving: 54
+collaboration: 47
+tensorflow: 46

@@ -1,0 +1,27 @@
+DAY 5: LOCATION INSIGHTS
+
+Top 10 Cities with Job Postings:
+         City  Postings
+     new york        37
+san francisco        32
+      chicago        17
+    cambridge        11
+       boston        10
+   washington         9
+     san jose         8
+  springfield         7
+      herndon         7
+     richland         6
+
+Top 10 Countries with Job Postings:
+Country  Postings
+     ca        86
+     ny        43
+     ma        36
+     va        30
+     il        20
+     pa        16
+     md        15
+     wa        15
+     tx        14
+     nj        10

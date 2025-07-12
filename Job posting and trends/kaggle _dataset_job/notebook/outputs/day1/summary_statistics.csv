@@ -1,0 +1,69 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,min_salary,max_salary,avg_salary,company_txt,job_state,same_state,age,python_yn,R_yn,spark,aws,excel
+count,742,742,742,742.0,742,742,742,742,742.0,742,742,742,742,742,742.0,742.0,742.0,742.0,742.0,742,742,742.0,742.0,742.0,742.0,742.0,742.0,742.0
+unique,264,416,463,,343,200,198,9,,11,60,25,14,128,,,,,,343,38,,,,,,,
+top,Data Scientist,$49K-$113K (Glassdoor est.),"Description
+Medical Laboratory Scientist - Texas Health Huguley- operated as joint venture between Texas Health Resources and AdventHealth
+Location Address: 11801 South Fwy., Burleson, TX 76028
+Top Reasons to Work At Texas Health Huguley, Burleson, TX
+Our care for patients extend to the spiritual level by praying with patients and families and providing on call, 24 hours, 7 days a week Chaplains for spiritual support.
+Award winning facility and departments including Great Place to Work by Beckers Hospital Review and Gallup.
+Work with the latest technology and top experts including Daisy Award recipients while on the way to Magnet status2020.
+Amazing medical benefits through Aetna plus an onsite full-service fitness center.
+Growth opportunities designed for each employee.
+Located about 10 minutes from downtown Fort Worth and near TCU in the award-winning school district, Burleson ISD which also provides a low-cost of living.
+Work Hours/Shift:
+Full Time
+3rd Shift
+
+You Will Be Responsible For:
+Accurately performs and expeditiously reports laboratory tests, according to departmental policies, CLIA law and regulatory standards.
+Determines identity and suitability of specimens when received, according to procedure policies.
+Assures test accuracy by performing and recording control testing, in accordance with departmental policy on each shift, as observed by the department supervisor.
+Performs tests in accordance with department policy and reports results in a timely manner, as documented in test records.
+Organizes daily work efficiently and expedites testing as observed by supervisor.
+Investigates problems and takes initiative in resolving them, both technical and non-technical, and communicates the outcome to the appropriate individual.
+Reviews integrity of report by checking legibility, completeness and credibility of results prior to releasing, as observed by supervisor.
+Accurately performs, records, transcribes or reviews proficiency testing material by the stated deadline, according to laboratory policy and CLIA law, as evidenced in the survey evaluation results.
+Maintains instrumentation and department supplies in order to ensure efficient departmental operations.
+Performs and documents assigned equipment maintenance duties per shift according to maintenance manuals.
+Restocks department supplies on a regular basis to ensure adequacy of inventory, as documented on department checklist.
+Recognizes problems in instrumentation, performs first line repairs as outlined in procedure manual and notifies appropriate individual if unable to adequately alleviate the problem.
+Promotes and contributes positively to intradepartmental and interdepartmental communications to ensure efficient departmental operation.
+Answers telephone and pages promptly and in a courteous manner, identifying self and department at all times.
+Assists in orientation and training of new associates unfamiliar with the department, as observed by the supervisor.
+Relays all appropriate information during shift hand-off, and ensures department is covered prior to leaving.
+Demonstrates good judgment in directing phone calls or questions to the appropriate department or individual.
+Promotes a safe working environment by regimented clean up and adherence to safety manuals.
+Adheres to established departmental guidelines for clean up on each shift.
+Protects self and co-workers by practicing safety precautions as established in safety and infection control manuals.
+Maintains appropriate departmental records and filing systems to ensure the expeditious retrieval of information and to comply with regulatory requirements.
+Ensures that results are properly filed and that data is recorded in a legible manner as evidenced in departmental records.
+Exhibits ability to perform essential computer operations pertaining to job duties.
+Performs outpatient ordering as defined in the department policy.
+Maintains a professional attitude in the work place regarding procedures, personnel and continuing education.
+Demonstrates a willingness to learn new procedures and instrumentation by attending training sessions and becoming familiar with new revisions as they occur.
+Reviews policies frequently, assists in updating contents and complies with procedures contained therein.
+Demonstrates flexibility by being able to work various departments and alternative shifts when requested.
+Exhibits willingness to help associates in their tasks when able.
+Accepts constructive criticism and feedback.
+Maintains necessary continuing education credits, keeps required competencies current, and maintains valid ASCP Certification.
+Qualifications
+What You Will Need:
+
+Must have a B.S. degree in Medical Technology, Medical Laboratory Science or a related science.
+Valid ASCP or AMT Technologist/Scientist Certification.
+At least one year of experience is preferred.
+Job Summary:
+Perform and report clinical laboratory analysis to assist physicians and other hospital staff in the diagnosis and monitoring of patients.
+
+This facility is an equal opportunity employer and complies with federal, state and local anti-discrimination laws, regulations and ordinances.",,"MassMutual
+3.6","New York, NY","New York, NY",1001 to 5000 employees,,Company - Private,Biotech & Pharmaceuticals,Information Technology,Unknown / Non-Applicable,-1,,,,,,"MassMutual
+", CA,,,,,,,
+freq,131,6,4,,14,55,52,150,,410,112,180,203,460,,,,,,14,151,,,,,,,
+mean,,,,3.6188679245283017,,,,,1837.154986522911,,,,,,0.03234501347708895,0.022911051212938006,74.06873315363882,127.18328840970351,100.62601078167116,,,0.5579514824797843,46.591644204851754,0.5283018867924528,0.0026954177897574125,0.22506738544474394,0.2371967654986523,0.522911051212938
+std,,,,0.8012101584634997,,,,,497.1837627029657,,,,,,0.17703404247509585,0.1497208925089758,31.86928207260769,46.90900648102468,38.855948156512454,,,0.4969652657637825,53.778815120152004,0.49953508800982177,0.05188236934528478,0.4179084006699433,0.42565083812312887,0.4998117218109457
+min,,,,-1.0,,,,,-1.0,,,,,,0.0,0.0,10.0,16.0,13.5,,,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
+25%,,,,3.3,,,,,1939.0,,,,,,0.0,0.0,52.0,96.0,73.5,,,0.0,11.0,0.0,0.0,0.0,0.0,0.0
+50%,,,,3.7,,,,,1988.0,,,,,,0.0,0.0,69.5,124.0,97.5,,,1.0,24.0,1.0,0.0,0.0,0.0,1.0
+75%,,,,4.0,,,,,2007.0,,,,,,0.0,0.0,91.0,155.0,122.5,,,1.0,59.0,1.0,0.0,0.0,0.0,1.0
+max,,,,5.0,,,,,2019.0,,,,,,1.0,1.0,202.0,306.0,254.0,,,1.0,276.0,1.0,1.0,1.0,1.0,1.0

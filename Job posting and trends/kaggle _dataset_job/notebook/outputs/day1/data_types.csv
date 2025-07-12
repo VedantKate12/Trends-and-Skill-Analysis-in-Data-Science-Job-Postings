@@ -1,0 +1,29 @@
+,0
+Job Title,object
+Salary Estimate,object
+Job Description,object
+Rating,float64
+Company Name,object
+Location,object
+Headquarters,object
+Size,object
+Founded,int64
+Type of ownership,object
+Industry,object
+Sector,object
+Revenue,object
+Competitors,object
+hourly,int64
+employer_provided,int64
+min_salary,int64
+max_salary,int64
+avg_salary,float64
+company_txt,object
+job_state,object
+same_state,int64
+age,int64
+python_yn,int64
+R_yn,int64
+spark,int64
+aws,int64
+excel,int64

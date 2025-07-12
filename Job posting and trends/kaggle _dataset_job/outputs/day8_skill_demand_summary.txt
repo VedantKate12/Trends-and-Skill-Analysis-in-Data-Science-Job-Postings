@@ -1,0 +1,9 @@
+Skill Demand Table Across Top 5 Companies
+
+                               PYTHON  R  SPARK  AWS  EXCEL
+Company Name                                               
+liberty mutual insurance\n3.3       4  0      0    0      1
+massmutual\n3.6                     4  0      4    3      5
+mitre\n3.2                          4  0      2    0      3
+novetta\n4.0                        5  0      1    4      0
+pnnl\n3.8                           3  0      0    0      0
